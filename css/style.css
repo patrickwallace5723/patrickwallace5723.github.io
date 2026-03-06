@@ -92,7 +92,9 @@ nav {
 .section {
   padding: 80px 60px;
   max-width: 1000px;
+  width: 100%;
   margin: 0 auto;
+  box-sizing: border-box;
 }
 
 .section h2 {
@@ -206,4 +208,9 @@ footer {
   border-radius: 12px;
   flex: 1;
   min-width: 280px;
+}
+
+.why-ashgen {
+  background: #f7f9f7;
+  border-radius: 8px;
 }
