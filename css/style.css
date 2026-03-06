@@ -12,7 +12,8 @@ body {
 }
 
 h1, h2, h3, .nav-logo {
-  font-family: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif;
+  font-family: 'Barlow', Arial, sans-serif;
+  font-weight: 700;
 }
 
 /* Navigation */
