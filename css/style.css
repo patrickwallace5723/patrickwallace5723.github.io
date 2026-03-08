@@ -9,7 +9,7 @@ body {
   color: #222;
   background-color: #ffffff;
   line-height: 1.7;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 h1, h2, h3, .nav-logo {
@@ -78,7 +78,7 @@ nav {
 
 .hero p {
   color: #555;
-  max-width: 620px;
+  max-width: 1400px;
   margin-bottom: 36px;
 }
 
