@@ -9,7 +9,7 @@ body {
   color: #222;
   background-color: #ffffff;
   line-height: 1.7;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 h1, h2, h3, .nav-logo {
@@ -36,6 +36,14 @@ nav {
   color: #1a3d2b;
   text-decoration: none;
   letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.nav-logo img {
+  height: 40px;
+  width: auto;
 }
 
 .nav-links a {
