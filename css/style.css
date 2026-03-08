@@ -9,7 +9,7 @@ body {
   color: #222;
   background-color: #ffffff;
   line-height: 1.7;
-  font-size: 30px;
+  font-size: 18px;
 }
 
 h1, h2, h3, .nav-logo {
@@ -50,7 +50,7 @@ nav {
   margin-left: 32px;
   text-decoration: none;
   color: #444;
-  font-size: 0.95rem;
+  font-size: 1rem;
   font-weight: 500;
   transition: color 0.2s;
 }
@@ -77,11 +77,9 @@ nav {
 }
 
 .hero p {
-  font-size: 1.2rem;
   color: #555;
   max-width: 620px;
   margin-bottom: 36px;
-  box-sizing: border-box;
 }
 
 .btn {
@@ -117,7 +115,6 @@ nav {
 
 .section p {
   color: #555;
-  font-size: 1.05rem;
   max-width: 720px;
   margin-bottom: 20px;
 }
@@ -146,7 +143,6 @@ nav {
 }
 
 .card p {
-  font-size: 0.95rem;
   color: #666;
 }
 
@@ -205,6 +201,7 @@ footer {
   margin-top: 60px;
 }
 
+/* Image Gallery */
 .image-gallery {
   display: flex;
   gap: 24px;
