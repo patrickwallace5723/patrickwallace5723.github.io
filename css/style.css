@@ -73,6 +73,7 @@ nav {
   color: #555;
   max-width: 620px;
   margin-bottom: 36px;
+  box-sizing: border-box;
 }
 
 .btn {
