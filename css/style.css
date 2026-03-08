@@ -115,7 +115,7 @@ nav {
 
 .section p {
   color: #555;
-  max-width: 720px;
+  max-width: 1400px;
   margin-bottom: 20px;
 }
 
@@ -149,6 +149,7 @@ nav {
 /* Contact Form */
 .contact-form {
   max-width: 580px;
+  margin: 0 auto;
 }
 
 .contact-form input,
