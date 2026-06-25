@@ -191,7 +191,7 @@ nav {
   max-width: 1240px;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: repeat(3, 1xl);
+  grid-template-columns: repeat(3, 1fr); /* Changed from 1xl to 1fr */
   gap: 40px;
 }
 
